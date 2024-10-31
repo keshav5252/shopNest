@@ -1,0 +1,10 @@
+@media only screen and (max-width: 960px) {
+    .detailer{
+        flex-direction: column;
+        margin: auto;
+    }
+    .detailer-left,
+    .detailer-right{
+        width: 100%;
+    }
+}
